@@ -1,3 +1,4 @@
+//wap to demonstrate the concept of pointer arithmetic
 #include <stdio.h>
 
 int main() {
