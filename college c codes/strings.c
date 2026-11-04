@@ -8,6 +8,6 @@ int main (){
     printf("Enter a string:");
     fgets(str,50,stdin);
     for (int i=0;str[i]!='\0';i++){
-        if(str[i]>='A'&&)
+        if(str[i]>='A'&&){}
     }
 }
