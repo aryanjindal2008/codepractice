@@ -13,4 +13,4 @@ int main() {
     return 0;
 }
 //ending line is here to be noted
-//aaray questions
+//aray questions
