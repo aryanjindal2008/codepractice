@@ -5,6 +5,7 @@ typedef struct { int id; float salary; } Emp;
 
 int main() {
     int n;
+    printf("Enter number of employees:");
     scanf("%d",&n);
 
     Emp e[n];

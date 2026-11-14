@@ -1,5 +1,4 @@
 //wap to count number of letter in words of a sentence 
-
 #include <stdio.h>
 #include <string.h>
 int main()
