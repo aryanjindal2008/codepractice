@@ -5,3 +5,4 @@ void enq(int x){q[++r]=x;}
 void deq(){f++;}
 void disp(){for(int i=f;i<=r;i++)printf("%d ",q[i]);printf("\n");}
 int main(){enq(1);enq(2);deq();disp();}
+// ending for this practicals 
